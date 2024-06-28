@@ -1,0 +1,128 @@
+Visit the official VS Code website: https://code.visualstudio.com/
+Click on the "Download for [your operating system]" button (Windows, macOS, or Linux).
+Run the Installer:
+
+Once the download is complete, run the installer file you downloaded.
+Follow the prompts in the installer wizard. The process may vary slightly depending on your operating system.
+Accept License Agreement:
+
+During the installation, you may be asked to accept the license agreement. Review and accept to proceed.
+Select Destination Folder (Optional):
+
+You may have the option to choose where to install VS Code. The default location is usually fine for most users.
+Create Start Menu Shortcuts (Optional):
+
+Some installers give you the option to create shortcuts in the start menu or on the desktop. Choose according to your preference.
+Additional Tasks (Optional):
+
+Some installers may ask if you want to add VS Code to the PATH environment variable. This can be useful if you want to run VS Code from the command line.
+Install:
+
+Click on the "Install" or "Finish" button to start the installation process.
+Launch VS Code:
+
+Once installed, you can launch VS Code from your desktop or start menu.
+
+
+
+2.
+
+ To select appererance and theme
+Open VS Code and go to File > Preferences > Color Theme.
+Choose a color theme that suits your preference or is optimized for the type of coding you do (e.g., light, dark, high contrast).
+ fond setting
+ You can customize the font family, size, and weight used in the editor.
+Go to File > Preferences > Settings, search for "font" settings, and adjust them to your liking.
+   For indentatioion
+   By default, VS Code uses spaces for indentation. You can change this and set your preferred tab size.
+Configure these settings under File > Preferences > Settings by searching for "tab size" and "insert spaces".
+For extensions: Explore the VS Code Marketplace (Ctrl+Shift+X or Cmd+Shift+X) to find and install extensions relevant to your programming languages or tools.
+
+
+
+4
+
+
+
+.It is a powerful tool that allows you to execute various commands and operations quickly without needing to navigate through menus or remember specific keyboard shortcuts
+Tasks that can be perfomed include:
+-The Command Palette provides a centralized and efficient way to access features and perform tasks in VS Code without interrupting your workflow.
+.
+
+
+ Seamless Integration: The integrated terminal is seamlessly integrated within the VS Code interface.
+
+Efficiency: Since the terminal is within the same window as your code editor, you can quickly execute commands, run scripts, or manage version control without leaving your coding environment. This efficiency speeds up your workflow.
+
+Access to VS Code Features: You can take advantage of VS Code's features directly in the terminal. For example, you can use keyboard shortcuts, select text for copying, and even perform searches within the terminal output.
+
+Customization: The integrated terminal in VS Code is highly customizable. You can change the terminal shell (e.g., Command Prompt, PowerShell, Bash), customize the font, colors, and behavior to suit your preferences or specific project requirements.
+
+Workspace Awareness: The integrated terminal is aware of your workspace settings and configurations, making it easier to manage different environments or projects. This includes automatically activating virtual environments, loading project-specific configurations, etc.
+
+Debugging Integration: VS Code allows you to debug applications directly from the integrated terminal. You can set breakpoints, inspect variables, and control the debugging session without switching to a separate debugger interface.
+
+Split Terminals: You can split the integrated terminal into multiple panes within VS Code, allowing you to view and interact with multiple terminal sessions simultaneously. This feature is useful for running different commands or scripts side by side.
+
+Extension Support: VS Code's integrated terminal supports extensions that can enhance its functionality further. For example, you can install extensions that add support for additional terminal shells, integrate with external tools, or provide custom commands and shortcuts.
+
+Cross-Platform Consistency: Whether you're using VS Code on Windows, macOS, or Linux, the integrated terminal behaves consistently across platforms. This consistency simplifies your development
+
+
+
+
+
+
+
+5 Additional Language Support:
+
+Extensions can provide syntax highlighting, code completion, and language-specific tools for a wide range of programming languages and file formats. For example, extensions exist for Python, Java, PHP, Ruby, and many more.
+Framework and Platform Support:
+
+Extensions can add support for specific frameworks and platforms, such as Angular, React, Vue.js for web development, or frameworks like Django and Flask for Python development. They can also integrate with cloud platforms like Azure, AWS, or Google Cloud.
+Enhanced Editor Functionality:
+
+Extensions can introduce new features and enhancements to the VS Code editor itself. This includes additional debugging capabilities, refactorings, code snippets, code formatting tools, and more.
+Version Control Integration:
+
+Extensions can integrate with version control systems like Git, providing enhanced capabilities for managing repositories, viewing diffs, staging changes, and resolving merge conflicts directly within VS Code.
+Task Automation and Build Tools:
+
+Extensions can automate repetitive tasks and integrate with build systems such as npm, Maven, Gradle, or custom scripts. They can run tasks, compile code, execute tests, and deploy applications, enhancing developer productivity.
+Debugging Support:
+
+Extensions can extend VS Code's debugging capabilities by adding support for specific languages, frameworks, or runtime environments. They can provide debuggers, debug configurations, and additional tools for troubleshooting applications.
+6.to open the terminal , look to top left hand side of your machine while in vs code and you will see three small lines select on them then select terminal then select new terminal.The terminal will pop up on your machine
+
+
+
+7
+
+
+
+
+
+
+.To create a file, type in the terminal the command "mkdir" followed by the name of the directory you want to create
+-To change directory, type the command "cd" in the terminal folloowed by tg=he name of the directory you want to navigate to
+-To open a file type the command cat followed by the name of the file tou want to open
+8
+
+.To  change theme- Go to setting and select them and then select the theme you want ton  change to
+9
+
+.Debug Toolbar:
+
+Location: The Debug toolbar typically appears at the top of the VS Code window when you activate the debugger.
+Features: It includes buttons for common debugging actions such as start, stop, restart, step over, step into, step out, pause, and continue. These buttons allow you to control the debugging session direct
+How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub
+10. -
+-to initialize a rapository cd to the rapository which you want to initialize and type in the terminal git add .
+-To make commit type the command git commit -m "the message you "
+
+
+
+
+
+
+
